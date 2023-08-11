@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "phone": "9573045885"
+    },
+    {
+      "id": 2,
+      "name": "Admin User1",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "phone": "9573045885"
+    },
+    {
+      "id": 3,
+      "name": "Admin User2",
+      "role": "admin",
+      "email": "admin@gmail.com",
+      "phone": "9573045885"
+    },
+    {
+      "name": "kjh",
+      "email": "fgh@gmail.com",
+      "phone": "09573045885",
+      "role": "staff",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Test6",
+      "email": "sivakumar397@gmail.com",
+      "phone": "7397349017",
+      "role": "staff"
+    },
+    {
+      "name": "Test7",
+      "email": "test7",
+      "phone": "98765",
+      "role": "staff",
+      "id": 6
+    }
+  ]
+}
